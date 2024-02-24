@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Welcome to soban world</h1>
+        <h1>Welcome to my website</h1>
+        <h2>Myself Soban</h2>
         <marquee> Website under construction we will be here soon...</marquee>
          </div>
     </>
